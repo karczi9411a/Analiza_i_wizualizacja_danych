@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542397072666.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BD63AF20",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1542397072666,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5000735E",
+        "caption" : "baza",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=baza&cache_key=5000735E",
+        "displayedObservations" : "40",
+        "environment" : "",
+        "object" : "baza",
+        "preview" : "0",
+        "totalObservations" : "40",
+        "variables" : "80"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
